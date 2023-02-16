@@ -1,0 +1,111 @@
+body{
+    margin-left: 40%;
+    margin-right: 48.5%;
+    background-color: gainsboro;
+}
+h1{
+    background-color: rgb(139, 79, 0);
+    color: linen;
+    border-bottom: 3pt solid chocolate;
+    border-left: 3pt solid chocolate;
+}
+form#arved{
+    background-color: grey;
+    margin-left: 10%;
+    margin-right: 22%;
+}
+table#arved{
+    margin-left: 25%;
+    background-color: gainsboro;
+}
+input#one{
+    background-color: lavender;
+    color: rgb(85, 85, 90);
+
+}
+input#one:hover{
+    background-color: rgb(154, 154, 184);
+    color: rgb(255, 255, 255);
+    padding: 20%;
+}
+input#kustuta{
+    background-color: rgb(209, 32, 32);
+    color: rgb(119, 52, 52);
+}
+input#kustuta:hover{
+    background-color: rgb(110, 37, 37);
+    color: rgb(255, 0, 0);
+    padding: 20%;
+}
+input#telli{
+    background-color: rgb(53, 190, 26);
+    color: rgb(38, 90, 51);
+}
+input#telli:hover{
+    background-color: rgb(24, 90, 41);
+    color: rgb(95, 209, 114);
+    padding: 20%;
+}
+div.tekst_osa input{
+    background-color: blue;
+    color: white;
+}
+input#arv{
+    background-color: blue;
+    color: white;
+}
+table.joogid{
+    border: 2pt solid rgb(82, 50, 12);
+    margin-left: 15%;
+    border-radius: 5pt;
+    background-color: linen;
+    color: rgb(136, 68, 0);
+}
+form.parool{
+    border: 2pt solid rgb(82, 50, 12);
+    border-radius: 5pt;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+input#parool_sisesta{
+    background-color: blue;
+    color: white;
+}
+input#nupp_parool{
+    background-color: lavender;
+    color: rgb(85, 85, 90);
+}
+input#nupp_parool:hover{
+    background-color: rgb(154, 154, 184);
+    color: rgb(255, 255, 255);
+}
+
+table.admin_table{
+    border: 3pt solid rgb(223, 153, 106);
+    border-radius: 5pt;
+    color: rgb(139, 79, 0);
+}
+table.admin_table th, td{
+    border-bottom: 2pt solid rgb(223, 153, 106);
+    border-left:2pt solid rgb(223, 153, 106);
+}
+table.admin_table a{
+    background-color: green;
+    color: rgb(162, 255, 162);
+    border: 2pt solid green;
+    border-radius: 5pt;
+}
+table.admin_table a:hover{
+    background-color: rgb(162, 255, 162);
+    color: green;
+    border: 2pt solid green;
+    border-radius: 5pt;
+}
+a#tagasi{
+    background-color: lavender;
+    color: rgb(85, 85, 90);
+}
+a#tagasi:hover{
+    background-color: rgb(154, 154, 184);
+    color: rgb(255, 255, 255);
+}
